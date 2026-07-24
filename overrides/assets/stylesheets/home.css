@@ -168,14 +168,23 @@ h2 {
     outline: 4px solid var(--clr-white);
 }
 
-/* Dark mode: Subscribe button purple */
-[data-md-color-scheme="slate"] .hero .button[data-type="inverted"] {
-    background: #653198;
+/* Hero buttons: same sliding gradient treatment as the grid's Learn More button */
+.hero .button {
+    background: linear-gradient(
+            135deg,
+            var(--md-primary-fg-color) 0%,
+            var(--md-primary-fg-color--dark) 50%,
+            var(--clr-blue) 50%,
+            var(--clr-blue-200) 100%
+        )
+        no-repeat;
+    background-size: 230% 100%;
+    transition: background-position 0.5s;
+    background-position: 0% 0%;
 }
 
-/* Light mode: Subscribe and Show Notes buttons black */
-[data-md-color-scheme="default"] .hero .button {
-    background: black;
+.hero .button:hover {
+    background-position: 100% 0%;
 }
 
 /* -----------------------
@@ -270,4 +279,23 @@ h2 {
 
 .grid_card .button:hover {
     background-position: 100% 0%;
+}
+
+/* Dark mode: grid background black, with legible light text on the cards */
+[data-md-color-scheme="slate"] .features {
+    background-color: black;
+}
+
+[data-md-color-scheme="slate"] .features h3,
+[data-md-color-scheme="slate"] .features h4 {
+    color: hsl(var(--clr-white-hsl), 0.87);
+}
+
+[data-md-color-scheme="slate"] .features p,
+[data-md-color-scheme="slate"] .features label {
+    color: hsl(var(--clr-white-hsl), 0.65);
+}
+
+[data-md-color-scheme="slate"] .features .grid_card {
+    background: hsl(var(--clr-white-hsl), 0.08);
 }

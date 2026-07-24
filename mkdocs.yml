@@ -53,9 +53,9 @@ plugins:
 extra:
   social:
     - icon: fontawesome/solid/microphone
-      link: https://www.circuitpythonshow.com/@thebootloader/feed.xml
+      link: https://feeds.captivate.fm/thecircuitpythonshow/
     - icon: fontawesome/solid/rss
-      link: https://thebootloader.net/feed_rss_created.xml
+      link: https://circuitpythonshow.com/feed_rss_created.xml
     - icon: simple/youtube
       link: https://youtube.com/@thecircuitpythonshow
     - icon: simple/bluesky
