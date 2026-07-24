@@ -49,6 +49,12 @@ watch:
 plugins:
   - search
   - awesome-nav
+  - rss:
+      match_path: "episodes/.*"
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
+      abstract_chars_count: -1
 
 extra:
   social:
