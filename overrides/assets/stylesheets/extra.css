@@ -1,0 +1,7 @@
+/* Header and nav tabs color, both modes */
+[data-md-color-scheme="slate"] .md-header,
+[data-md-color-scheme="default"] .md-header,
+[data-md-color-scheme="slate"] .md-tabs,
+[data-md-color-scheme="default"] .md-tabs {
+    background-color: #653198;
+}

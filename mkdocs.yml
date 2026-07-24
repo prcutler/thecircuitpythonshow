@@ -1,0 +1,63 @@
+site_name: The CircuitPython Show
+site_url: https://circuitpythonshow.com
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to system preference
+
+  icon:
+    logo: fontawesome/solid/microphone
+
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+watch:
+  - overrides
+
+extra:
+  social:
+    - icon: fontawesome/solid/microphone
+      link: https://www.circuitpythonshow.com/@thebootloader/feed.xml
+    - icon: fontawesome/solid/rss
+      link: https://thebootloader.net/feed_rss_created.xml
+    - icon: simple/youtube
+      link: https://youtube.com/@thecircuitpythonshow
+    - icon: simple/bluesky
+      link: https://bsky.app/profile/circuitpythonshow.com
+    - icon: simple/github
+      link: https://github.com/prcutler/thecircuitpythonshow
+    - icon: /fontawesome/regular/envelope
+      name: Send an email
+      link: mailto:paul@circuitpythonshow.com
