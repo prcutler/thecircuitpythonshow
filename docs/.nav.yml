@@ -1,0 +1,5 @@
+nav:
+  - Home: index.md
+  - Episodes: episodes/
+  - About: about.md
+  - Support: support.md
