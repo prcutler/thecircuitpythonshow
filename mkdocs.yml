@@ -46,6 +46,10 @@ extra_css:
 watch:
   - overrides
 
+plugins:
+  - search
+  - awesome-nav
+
 extra:
   social:
     - icon: fontawesome/solid/microphone
