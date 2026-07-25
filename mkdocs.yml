@@ -51,6 +51,10 @@ watch:
 plugins:
   - search
   - awesome-nav
+  - social:
+      cards_layout: default/accent
+      cards_layout_options:
+        background_color: "#653198"
   - rss:
       match_path: "episodes/.*"
       date_from_meta:
@@ -60,6 +64,7 @@ plugins:
   - redirects:
       redirect_maps:
         '@circuitpythonshow/feed.xml': 'https://feeds.captivate.fm/thecircuitpythonshow/'
+
 
 
 extra:
