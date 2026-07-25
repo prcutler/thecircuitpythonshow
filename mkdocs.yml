@@ -59,7 +59,7 @@ plugins:
       abstract_chars_count: -1
   - redirects:
       redirect_maps:
-        '@circuitpythonshow': 'https://feeds.captivate.fm/thecircuitpythonshow/'
+        '@circuitpythonshow/feed.xml': 'https://feeds.captivate.fm/thecircuitpythonshow/'
 
 
 extra:
