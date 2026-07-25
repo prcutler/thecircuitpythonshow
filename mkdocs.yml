@@ -28,6 +28,8 @@ theme:
   icon:
     logo: fontawesome/solid/microphone
 
+  favicon: assets/favicon-microphone.svg
+
   features:
     - navigation.tabs
     - navigation.instant
@@ -55,6 +57,10 @@ plugins:
         as_creation: date.created
         as_update: date.updated
       abstract_chars_count: -1
+  - redirects:
+      redirect_maps:
+        '@circuitpythonshow': 'https://feeds.captivate.fm/thecircuitpythonshow/'
+
 
 extra:
   social:
