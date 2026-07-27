@@ -10,6 +10,7 @@
     status = 301
     force = true
 
+[[redirects]]
     from = "https://www.circuitpythonshow.com/@thebootloader/feed.xml"
     to = "https://feeds.captivate.fm/thebootloader/"
     status = 301
