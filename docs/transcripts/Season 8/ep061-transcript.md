@@ -28,8 +28,6 @@ Michael Czeiszperger
 
 how does it all work? You know, and the other thing I thought was, I do not want to repair TVs. I want to build stereos.
 
-Michael Czeiszperger
-
 That sounds way cooler.
 
 Paul
@@ -39,8 +37,6 @@ How did you discover CircuitPython?
 Michael Czeiszperger
 
 I discovered CircuitPython because I've been following Adafruit since it started.
-
-Michael Czeiszperger
 
 And so I just think it's a cool company. I like the way they're run. And CircuitPython happened to be a good way to learn how to use our hardware.
 
