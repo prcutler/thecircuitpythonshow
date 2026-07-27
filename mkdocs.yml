@@ -61,10 +61,6 @@ plugins:
         as_creation: date.created
         as_update: date.updated
       abstract_chars_count: -1
-  - redirects:
-      redirect_maps:
-        '@circuitpythonshow/feed.xml': 'https://feeds.captivate.fm/thecircuitpythonshow/'
-
 
 
 extra:

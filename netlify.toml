@@ -9,3 +9,8 @@
     to = "https://feeds.captivate.fm/thecircuitpythonshow/"
     status = 301
     force = true
+
+    from = "https://www.circuitpythonshow.com/@thebootloader/feed.xml"
+    to = "https://feeds.captivate.fm/thebootloader/"
+    status = 301
+    force = true
