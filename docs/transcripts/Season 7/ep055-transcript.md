@@ -4,6 +4,12 @@ date:
 title: "Episode 55 - The Open Pressure Sensor Device"
 ---
 
+## Show Notes
+
+[Show notes available here.](../../episodes/Season 7/ep055.md)
+
+## Transcript
+
 Paul
 
 Welcome to the Circuit Python Show. I'm your host, Paul Cutler. This episode, I'm joined by Michelle Hui and Reitwiec Shandilya. Michelle is a master's student at Cornell Tech and AI and Urban Technology. Her practice includes accessible technology for good across health and climate. Previously, she has worked at Wing, Google's drone delivery moonshot, and the United Nations. Reitwiec is a master's student at Cornell Tech and a fellow at 645 Ventures, where he focuses on early stage investments in AI infrastructure, security, and hardware. Previously, he was an early member of SAP's AI team working on Enterprise AI Solutions. Michelle and Reitwiec, welcome to the show.

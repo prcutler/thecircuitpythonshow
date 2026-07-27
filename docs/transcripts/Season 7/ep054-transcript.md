@@ -4,6 +4,12 @@ date:
 title: "Episode 54 - Sean Carolan"
 ---
 
+## Show Notes
+
+[Show notes available here.](../../episodes/Season 7/ep054.md)
+
+## Transcript
+
 Paul
 
 Welcome to the CircuitPython Show. I'm your host, Paul Cutler. This episode, I'm joined by Sean Carolan. Sean is a maker and gardener in upstate New York who enjoys playing video games and building projects with CircuitPython. Sean got his start with computers on a Commodore 64 and worked for Electronic Arts as a systems administrator. Sean works as a sales engineer for Grafana Labs, an open source monitoring and observability company. He lives with his wife, two cats, in a Shiba Inu near Albany, the state capital. Sean, welcome to the show.

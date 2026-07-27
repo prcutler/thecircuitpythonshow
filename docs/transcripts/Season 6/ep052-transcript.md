@@ -4,6 +4,12 @@ date:
 title: "Episode 52 - Dan Cogliano"
 ---
 
+## Show Notes
+
+[Show notes available here.](../../episodes/Season 6/ep052.md)
+
+## Transcript
+
 (soft music)
 
 Paul

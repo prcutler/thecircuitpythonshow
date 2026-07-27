@@ -4,6 +4,12 @@ date:
 title: "Episode 59 - Tom Fox"
 ---
 
+## Show Notes
+
+[Show notes available here.](../../episodes/Season 7/ep059.md)
+
+## Transcript
+
 Paul
 
 Welcome to the CircuitPython Show. I'm your host, Paul Cutler. This episode I'm joined by Tom Fox. Tom is a teacher, creative technologist, musician, and artist, who specializes in human music interaction and exploring physics and electronics to create new musical devices or interfaces. He runs Acoustic, a London-based group that specializes in showcasing musical innovators and makers and have showcased other people's work through curating events at locations like Tate Modern, VNA Museum, Royal College of Music, and Abbey Road Studios. Tom, welcome to the show.

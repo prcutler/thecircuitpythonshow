@@ -4,6 +4,12 @@ date:
 title: "Episode 53 - John Ellis"
 ---
 
+## Show Notes
+
+[Show notes available here.](../../episodes/Season 7/ep053.md)
+
+## Transcript
+
 Paul
 
 Welcome to the CircuitPython Show. I'm your host, Paul Cutler. This episode I welcome John Ellis. When John was six, his career ambition was to work part-time building robots and part-time working at McDonald's. Even in the 90s, he understood the practical duplicity of hacking as a passion while working a corporate job to get the drop on the latest Happy Meal toys. It guides him to this day. John started working on Apple IIe's in the only computer lab in his rural community, which luckily was run by his mother. He started by writing text adventures in BASIC and fixing floppy drives he had broken, sometimes using typewriter parts to get mechanical pieces to work. This grew into a career that required a mix of hardware and software hacking, even as the infrastructure moved to the cloud. Currently John is the CTO of the non-profit Indiana Tech for Progress, which finds ways to leverage technology in order to increase civic engagement on a local level. projects on his workbench include a Keurig that briefly caught fire, an intelligent but retro alarm clock for his kids, a continually broken SNES controller, and a Bluetooth controlled lamp made from a bottle of a since closed brewery. John, welcome to the show.

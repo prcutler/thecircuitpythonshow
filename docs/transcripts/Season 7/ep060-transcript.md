@@ -4,6 +4,12 @@ date:
 title: "Episode 60 - Michael T-Rex Kadie"
 ---
 
+## Show Notes
+
+[Show notes available here.](../../episodes/Season 7/ep060.md)
+
+## Transcript
+
 Paul
 
 Welcome to the CircuitPython Show. I'm your host, Paul Cutler. This episode I welcome Michael T.Rex Kadie. He is an engineer builder, an openly autistic adult, and the founder of SSI Racing. He earned a BS and MS in computer science from the University of Wyoming, with a systems and AI thesis dedicated to building a custom hardware software, augmentatives communication device, for two non-speaking children. That project set the trajectory. He spent the next three decades shipping embedded firmware, real-time systems, and production software across telephony, manufacturing, and wireless, including a stretch of staff engineer at Qualcomm, and along the way designed the battery management system used in the FDA-certified electric wheelchair, and a world-record-setting electric car that was on the main floor of the Detroit Auto Show for some reason. Today, through TSSFAA.com, which stands for T-Rex, successful, slightly famous autistic adult, He releases open source assistive devices built on CircuitPython. The main project is the TREX Talk family. Tactile AAC boards built around the Adafruit microcontrollers featuring the RP2040, RP2, and ESP32, with a new TREX Talk 3.0 generation moving to the RP2350-based Adafruit Fruit Jam and similar cores. Michael, welcome to the show.

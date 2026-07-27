@@ -4,6 +4,12 @@ date:
 title: "Episode 61 - Michael Czeiszperger"
 ---
 
+## Show Notes
+
+[Show notes available here.](../../episodes/Season 8/ep061.md)
+
+## Transcript
+
 Paul
 
 Welcome to the CircuitPython Show. I'm your host, Paul Cutler. This episode, I welcome Michael Czeiszperger.

@@ -4,6 +4,12 @@ date:
 title: "Episode 58 - Developing for the Fruit Jam"
 ---
 
+## Show Notes
+
+[Show notes available here.](../../episodes/Season 7/ep058.md)
+
+## Transcript
+
 Paul
 
 Welcome to the CircuitPython Show. I'm your host, Paul Cutler. This episode, I'm joined by three former guests on the show, Dan Cogliano, Tim Cox, and Cooper Dalrymple. They've joined me to chat about the Adafruit Fruit Jam, which was first released last July and shipped to Adabox subscribers this past November. The Fruit Jam runs CircuitPython and is a credit card-sized microcomputer with display support, USB host for mice keyboards and game pads, and SD card, expansion GPIO, and more. Tim, Dan, and Cooper, welcome to the show.

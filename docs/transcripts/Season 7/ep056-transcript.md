@@ -4,6 +4,12 @@ date:
 title: "Episode 56 - John Park"
 ---
 
+## Show Notes
+
+[Show notes available here.](../../episodes/Season 7/ep056.md)
+
+## Transcript
+
 Paul Cutler
 
 Welcome to The CircuitPython Show. I'm your host, Paul Cutler. This episode, I welcome John Park, who is a professional maker and live streamer. He builds creative technical projects, tutorials, and videos for Adafruit Industries. He previously hosted and co-wrote the Emmy-nominated MAKE: Television show on American Public Television. John previously worked in computer graphics, including 12 years in animation at Disney. John is an amateur circus aerialist and a synthesizer enthusiast. JP, welcome to the show.

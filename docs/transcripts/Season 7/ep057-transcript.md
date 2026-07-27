@@ -4,6 +4,12 @@ date:
 title: "Episode 57 - Physical Computing - Interactive Art, Robotics, & Tech for Good"
 ---
 
+## Show Notes
+
+[Show notes available here.](../../episodes/Season 7/ep057.md)
+
+## Transcript
+
 Paul
 
 Welcome to the Circuit Python Show. I'm your host, Paul Cutler. This episode, I'm joined by Abby Bergman and Esha Patel. Abigail J. Bergman is a doctoral research assistant for the developmental technologies research group at Boston College. She completed her Bachelor of Arts in Psychology at Brandeis University and her Master of Arts in Learning Engineering at Boston College. Her interests include design-based research practices related to engaging young learners in science, technology, engineering, art, and mathematics. She is currently pursuing her doctorate, Informative Education, at Boston College. Esha Patel is a graduate student at Boston College in the Learning Design and Technology Program. She completed her Bachelor of Science in Elementary Education and I-Sem education at the College of New Jersey. Previously, Esha taught middle school science and engineering in New Jersey. Abby and Esha, welcome to the show.
