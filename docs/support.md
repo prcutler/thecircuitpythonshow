@@ -42,7 +42,7 @@ One time expenses:
 * [Hush](https://hush.audio/products/hush) (audio clean up): $90
 * [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) (transcriptions): $75
 
-## Sponsor the show.
+## Sponsor the show
 
 You can sponsor the show via [GitHub Sponsors](https://github.com/sponsors/prcutler) (with more options coming soon!)
 
