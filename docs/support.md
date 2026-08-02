@@ -19,6 +19,7 @@ And to our former sponsors:
 
 * Tim C. 
 * Tod Kurt
+* Laroche02
 
 ## Podcast expenses
 
@@ -28,7 +29,7 @@ Monthly expenses:
 
 * [Boomcaster](https://www.boomcaster.com/?ref=6oqOUUYpjBHg49mH) (remote video recording and referral link): $20 / month
 
-Annual expense:
+Annual expenses:
 
 * [Fantasical](https://flexibits.com/fantastical) (guest scheduling): $57
 * Domain renewal ([Namecheap](https://www.namecheap.com)): $18
