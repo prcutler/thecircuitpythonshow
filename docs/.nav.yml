@@ -1,6 +1,6 @@
 nav:
   - Home: index.md
   - Episodes: episodes/
+  - Transcripts: transcripts/
   - About: about.md
   - Support: support.md
-  - Transcripts: transcripts/
