@@ -5,9 +5,11 @@ The CircuitPython Show is an independent podcast and created and hosted by Paul 
 
 The CircuitPython Show is published bi-weekly when in season. Seasons vary based on the number of interviewees available and as Paul's time permits.
 
-## Subscribe
+## Subscribe and Connect
 
 Subscribe to the [podcast RSS feed](https://feeds.captivate.fm/thecircuitpythonshow/) or [visit the homepage](https://circuitpythonshow.com).
+
+Join our [Discord server](https://discord.gg/e2Ue5cdwQB).
 
 ## Support
 
