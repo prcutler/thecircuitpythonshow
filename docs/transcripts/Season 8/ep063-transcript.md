@@ -1,7 +1,7 @@
 ---
 date:
-  created: 2026-07-27
-title: "Episode 61 - Michael Czeiszperger"
+  created: 2026-08-24
+title: "Episode 63 - Scott Shawcroft Part Two"
 ---
 
 ## Show Notes
