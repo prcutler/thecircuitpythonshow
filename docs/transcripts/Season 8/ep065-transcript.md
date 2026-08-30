@@ -1,7 +1,7 @@
 ---
 date:
-  created: 2026-09-07
-title: "Episode 64 - Andrew from Keep Everything Yours"
+  created: 2026-09-21
+title: "Episode 65 - Andrew from Keep Everything Yours"
 ---
 
 ## Show Notes
