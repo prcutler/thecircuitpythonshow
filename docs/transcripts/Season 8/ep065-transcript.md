@@ -6,7 +6,7 @@ title: "Episode 65 - Andrew from Keep Everything Yours"
 
 ## Show Notes
 
-[Show notes available here.](../../episodes/Season 8/ep064.md)
+[Show notes available here.](../../episodes/Season 8/ep065.md)
 
 ## Transcript
 
