@@ -27,3 +27,1097 @@
     to = "https://feeds.captivate.fm/thebootloader/"
     status = 301
     force = true
+
+# PROPOSED redirects - not applied. Paste below the existing [[redirects]] in netlify.toml.
+# Netlify uses the first rule that matches, so keep this order.
+
+# ---- Old Castopod episode pages, The CircuitPython Show (slugs inferred from episode titles) ----
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/kattni-rembor/"
+    to = "/episodes/Season%201/ep001/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/les-pounder/"
+    to = "/episodes/Season%201/ep002/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/john-gallaugher/"
+    to = "/episodes/Season%201/ep003/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/tod-kurt/"
+    to = "/episodes/Season%201/ep004/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/rose-hooper/"
+    to = "/episodes/Season%201/ep005/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/scott-shawcroft/"
+    to = "/episodes/Season%201/ep006/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/alie-gonzalez/"
+    to = "/episodes/Season%202/ep007/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/melissa-leblanc-williams/"
+    to = "/episodes/Season%202/ep008/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/liz-clark/"
+    to = "/episodes/Season%202/ep009/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/pierre-constantineau/"
+    to = "/episodes/Season%202/ep010/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/anne-barela/"
+    to = "/episodes/Season%202/ep011/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/guy-dupont/"
+    to = "/episodes/Season%202/ep012/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/nicholas-tollervey/"
+    to = "/episodes/Season%202/ep013/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/kevin-matocha/"
+    to = "/episodes/Season%202/ep014/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/joshua-lowe/"
+    to = "/episodes/Season%202/ep015/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/brent-rubell/"
+    to = "/episodes/Season%202/ep016/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/radomir-dopieralski/"
+    to = "/episodes/Season%202/ep017/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/thea-flowers/"
+    to = "/episodes/Season%202/ep018/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/bradan-lane/"
+    to = "/episodes/Season%202/ep019/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/jim-mussared/"
+    to = "/episodes/Season%202/ep020/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/jason-pecor-and-the-trolls/"
+    to = "/episodes/Season%202/ep021/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/joey-castillo/"
+    to = "/episodes/Season%202/ep022/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/mark-komus/"
+    to = "/episodes/Season%202/ep023/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/alec-delaney/"
+    to = "/episodes/Season%202/ep024/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/danny-staple/"
+    to = "/episodes/Season%203/ep025/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/seth-kerr/"
+    to = "/episodes/Season%203/ep026/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/ben-shockley/"
+    to = "/episodes/Season%203/ep027/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/dan-halbert/"
+    to = "/episodes/Season%203/ep028/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/martin-tan/"
+    to = "/episodes/Season%203/ep029/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/erin-st-blaine/"
+    to = "/episodes/Season%203/ep030/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/tod-kurt-part-2/"
+    to = "/episodes/Season%204/ep031/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/max-lupo/"
+    to = "/episodes/Season%204/ep032/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/jan-goolsbey/"
+    to = "/episodes/Season%204/ep033/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/debra-ansell/"
+    to = "/episodes/Season%204/ep034/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/jeff-epler/"
+    to = "/episodes/Season%204/ep035/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/paul-cutler/"
+    to = "/episodes/Season%204/ep036/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/aaron-pendley/"
+    to = "/episodes/Season%205/ep037/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/building-a-weather-system-with-jan-goolsbey/"
+    to = "/episodes/Season%205/ep038/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/designing-a-pcb-with-bradan-lane/"
+    to = "/episodes/Season%205/ep039/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/building-circuitpython-with-dan-halbert/"
+    to = "/episodes/Season%205/ep040/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/writing-a-circuitpython-library-for-the-community-bundle/"
+    to = "/episodes/Season%205/ep041/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/project-collaboration-with-liz-clark-and-noe-ruiz/"
+    to = "/episodes/Season%205/ep042/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/audio-effects-panel-discussion/"
+    to = "/episodes/Season%205/ep043/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/designing-games-for-circuitpython-with-tim-foamyguy-cocks/"
+    to = "/episodes/Season%205/ep044/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/cooper-dalrymple/"
+    to = "/episodes/Season%205/ep045/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/justin-myers/"
+    to = "/episodes/Season%205/ep046/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/john-fletcher/"
+    to = "/episodes/Season%206/ep047/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/noe-ruiz/"
+    to = "/episodes/Season%206/ep048/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/sam-blenny/"
+    to = "/episodes/Season%206/ep049/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/john-romkey/"
+    to = "/episodes/Season%206/ep050/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/river-wang/"
+    to = "/episodes/Season%206/ep051/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/dan-cogliano/"
+    to = "/episodes/Season%206/ep052/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/john-ellis/"
+    to = "/episodes/Season%207/ep053/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/sean-carolan/"
+    to = "/episodes/Season%207/ep054/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/the-open-pressure-sensor-device/"
+    to = "/episodes/Season%207/ep055/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/john-park/"
+    to = "/episodes/Season%207/ep056/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/physical-computing-interactive-art-robotics-tech-for-good/"
+    to = "/episodes/Season%207/ep057/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/developing-for-the-fruit-jam/"
+    to = "/episodes/Season%207/ep058/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/tom-fox/"
+    to = "/episodes/Season%207/ep059/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/michael-t-rex-kadie/"
+    to = "/episodes/Season%207/ep060/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/michael-czeiszperger/"
+    to = "/episodes/Season%208/ep061/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/tod-kurt-part-3/"
+    to = "/episodes/Season%208/ep062/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/scott-shawcroft-part-2/"
+    to = "/episodes/Season%208/ep063/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/circuitpython-day-2026/"
+    to = "/episodes/Season%208/ep064/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/andrew-from-keepeverythingyours-com/"
+    to = "/episodes/Season%208/ep065/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/vicky-twomey-lee/"
+    to = "/episodes/Season%208/ep066/"
+    status = 301
+
+# ---- Old Castopod episode pages, The Bootloader (sent to thebootloader.net) ----
+[[redirects]]
+    from = "/@thebootloader/episodes/rock-stars-are-just-like-us/"
+    to = "https://www.thebootloader.net/episodes/2022/ep001/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/m-is-for-makers-music-and-machine-learning/"
+    to = "https://www.thebootloader.net/episodes/2022/ep002/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/the-middle-is-a-pumpkin/"
+    to = "https://www.thebootloader.net/episodes/2022/ep003/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/what-s-the-matter/"
+    to = "https://www.thebootloader.net/episodes/2022/ep004/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/pandas-and-breadboards/"
+    to = "https://www.thebootloader.net/episodes/2022/ep005/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/supersized-for-supercon/"
+    to = "https://www.thebootloader.net/episodes/2022/ep006/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/the-circuitpython-9-release-show/"
+    to = "https://www.thebootloader.net/episodes/2024/ep007/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/built-from-the-ground-up/"
+    to = "https://www.thebootloader.net/episodes/2024/ep008/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/beautiful-bezier-curves/"
+    to = "https://www.thebootloader.net/episodes/2024/ep009/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/four-topics-and-an-interview/"
+    to = "https://www.thebootloader.net/episodes/2024/ep010/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/teardown-2024-with-debra-ansell/"
+    to = "https://www.thebootloader.net/episodes/2024/ep011/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/from-arcade-to-synth/"
+    to = "https://www.thebootloader.net/episodes/2024/ep012/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/welcome-liz-clark/"
+    to = "https://www.thebootloader.net/episodes/2024/ep013/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/welcome-kevin-santo-cappuccio/"
+    to = "https://www.thebootloader.net/episodes/2024/ep014/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/supercon-2024/"
+    to = "https://www.thebootloader.net/episodes/2024/ep015/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/sunsets-synths-and-pinball/"
+    to = "https://www.thebootloader.net/episodes/2025/ep016/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/bamboozled/"
+    to = "https://www.thebootloader.net/episodes/2025/ep017/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/welcome-brent-rubell/"
+    to = "https://www.thebootloader.net/episodes/2025/ep018/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/welcome-andy-piper/"
+    to = "https://www.thebootloader.net/episodes/2025/ep019/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/i-m-afraid-it-s-trmnl/"
+    to = "https://www.thebootloader.net/episodes/2025/ep020/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/rated-pg-for-language/"
+    to = "https://www.thebootloader.net/episodes/2025/ep021/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/the-rant-and-the-love-letter/"
+    to = "https://www.thebootloader.net/episodes/2025/ep022/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/drop-the-beat-with-john-park/"
+    to = "https://www.thebootloader.net/episodes/2025/ep023/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/circuitpython-day-2025-special-edition/"
+    to = "https://www.thebootloader.net/episodes/2025/ep024/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/i-feel-the-need-for-speed/"
+    to = "https://www.thebootloader.net/episodes/2025/ep025/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/super-smooth-with-liz-clark/"
+    to = "https://www.thebootloader.net/episodes/2025/ep026/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/don-t-call-it-a-comeback/"
+    to = "https://www.thebootloader.net/episodes/2025/ep027/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/games-without-frontiers/"
+    to = "https://www.thebootloader.net/episodes/2026/ep028/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/kick-out-the-jams/"
+    to = "https://www.thebootloader.net/episodes/2026/ep029/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/spin-the-black-circle/"
+    to = "https://www.thebootloader.net/episodes/2026/ep030/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/help-i-m-alive/"
+    to = "https://www.thebootloader.net/episodes/2026/ep031/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/wave-of-mutilation/"
+    to = "https://www.thebootloader.net/episodes/2026/ep032/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/times-like-these/"
+    to = "https://www.thebootloader.net/episodes/2026/ep033/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/pinball-wizard/"
+    to = "https://www.thebootloader.net/episodes/2026/ep034/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/thank-you-for-the-music/"
+    to = "https://www.thebootloader.net/episodes/2026/ep035/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/circuitpython-day-2026/"
+    to = "https://www.thebootloader.net/episodes/2026/ep036/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/the-spirit-of-radio/"
+    to = "https://www.thebootloader.net/episodes/2026/ep037/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/saved-by-zero/"
+    to = "https://www.thebootloader.net/episodes/2026/ep038/"
+    status = 301
+
+# ---- Anything under an old Castopod episode (transcript, embed and so on) goes to that episode ----
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/kattni-rembor/*"
+    to = "/episodes/Season%201/ep001/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/les-pounder/*"
+    to = "/episodes/Season%201/ep002/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/john-gallaugher/*"
+    to = "/episodes/Season%201/ep003/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/tod-kurt/*"
+    to = "/episodes/Season%201/ep004/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/rose-hooper/*"
+    to = "/episodes/Season%201/ep005/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/scott-shawcroft/*"
+    to = "/episodes/Season%201/ep006/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/alie-gonzalez/*"
+    to = "/episodes/Season%202/ep007/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/melissa-leblanc-williams/*"
+    to = "/episodes/Season%202/ep008/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/liz-clark/*"
+    to = "/episodes/Season%202/ep009/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/pierre-constantineau/*"
+    to = "/episodes/Season%202/ep010/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/anne-barela/*"
+    to = "/episodes/Season%202/ep011/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/guy-dupont/*"
+    to = "/episodes/Season%202/ep012/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/nicholas-tollervey/*"
+    to = "/episodes/Season%202/ep013/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/kevin-matocha/*"
+    to = "/episodes/Season%202/ep014/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/joshua-lowe/*"
+    to = "/episodes/Season%202/ep015/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/brent-rubell/*"
+    to = "/episodes/Season%202/ep016/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/radomir-dopieralski/*"
+    to = "/episodes/Season%202/ep017/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/thea-flowers/*"
+    to = "/episodes/Season%202/ep018/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/bradan-lane/*"
+    to = "/episodes/Season%202/ep019/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/jim-mussared/*"
+    to = "/episodes/Season%202/ep020/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/jason-pecor-and-the-trolls/*"
+    to = "/episodes/Season%202/ep021/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/joey-castillo/*"
+    to = "/episodes/Season%202/ep022/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/mark-komus/*"
+    to = "/episodes/Season%202/ep023/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/alec-delaney/*"
+    to = "/episodes/Season%202/ep024/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/danny-staple/*"
+    to = "/episodes/Season%203/ep025/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/seth-kerr/*"
+    to = "/episodes/Season%203/ep026/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/ben-shockley/*"
+    to = "/episodes/Season%203/ep027/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/dan-halbert/*"
+    to = "/episodes/Season%203/ep028/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/martin-tan/*"
+    to = "/episodes/Season%203/ep029/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/erin-st-blaine/*"
+    to = "/episodes/Season%203/ep030/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/tod-kurt-part-2/*"
+    to = "/episodes/Season%204/ep031/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/max-lupo/*"
+    to = "/episodes/Season%204/ep032/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/jan-goolsbey/*"
+    to = "/episodes/Season%204/ep033/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/debra-ansell/*"
+    to = "/episodes/Season%204/ep034/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/jeff-epler/*"
+    to = "/episodes/Season%204/ep035/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/paul-cutler/*"
+    to = "/episodes/Season%204/ep036/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/aaron-pendley/*"
+    to = "/episodes/Season%205/ep037/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/building-a-weather-system-with-jan-goolsbey/*"
+    to = "/episodes/Season%205/ep038/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/designing-a-pcb-with-bradan-lane/*"
+    to = "/episodes/Season%205/ep039/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/building-circuitpython-with-dan-halbert/*"
+    to = "/episodes/Season%205/ep040/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/writing-a-circuitpython-library-for-the-community-bundle/*"
+    to = "/episodes/Season%205/ep041/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/project-collaboration-with-liz-clark-and-noe-ruiz/*"
+    to = "/episodes/Season%205/ep042/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/audio-effects-panel-discussion/*"
+    to = "/episodes/Season%205/ep043/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/designing-games-for-circuitpython-with-tim-foamyguy-cocks/*"
+    to = "/episodes/Season%205/ep044/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/cooper-dalrymple/*"
+    to = "/episodes/Season%205/ep045/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/justin-myers/*"
+    to = "/episodes/Season%205/ep046/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/john-fletcher/*"
+    to = "/episodes/Season%206/ep047/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/noe-ruiz/*"
+    to = "/episodes/Season%206/ep048/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/sam-blenny/*"
+    to = "/episodes/Season%206/ep049/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/john-romkey/*"
+    to = "/episodes/Season%206/ep050/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/river-wang/*"
+    to = "/episodes/Season%206/ep051/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/dan-cogliano/*"
+    to = "/episodes/Season%206/ep052/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/john-ellis/*"
+    to = "/episodes/Season%207/ep053/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/sean-carolan/*"
+    to = "/episodes/Season%207/ep054/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/the-open-pressure-sensor-device/*"
+    to = "/episodes/Season%207/ep055/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/john-park/*"
+    to = "/episodes/Season%207/ep056/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/physical-computing-interactive-art-robotics-tech-for-good/*"
+    to = "/episodes/Season%207/ep057/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/developing-for-the-fruit-jam/*"
+    to = "/episodes/Season%207/ep058/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/tom-fox/*"
+    to = "/episodes/Season%207/ep059/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/michael-t-rex-kadie/*"
+    to = "/episodes/Season%207/ep060/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/michael-czeiszperger/*"
+    to = "/episodes/Season%208/ep061/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/tod-kurt-part-3/*"
+    to = "/episodes/Season%208/ep062/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/scott-shawcroft-part-2/*"
+    to = "/episodes/Season%208/ep063/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/circuitpython-day-2026/*"
+    to = "/episodes/Season%208/ep064/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/andrew-from-keepeverythingyours-com/*"
+    to = "/episodes/Season%208/ep065/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/vicky-twomey-lee/*"
+    to = "/episodes/Season%208/ep066/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/rock-stars-are-just-like-us/*"
+    to = "https://www.thebootloader.net/episodes/2022/ep001/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/m-is-for-makers-music-and-machine-learning/*"
+    to = "https://www.thebootloader.net/episodes/2022/ep002/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/the-middle-is-a-pumpkin/*"
+    to = "https://www.thebootloader.net/episodes/2022/ep003/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/what-s-the-matter/*"
+    to = "https://www.thebootloader.net/episodes/2022/ep004/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/pandas-and-breadboards/*"
+    to = "https://www.thebootloader.net/episodes/2022/ep005/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/supersized-for-supercon/*"
+    to = "https://www.thebootloader.net/episodes/2022/ep006/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/the-circuitpython-9-release-show/*"
+    to = "https://www.thebootloader.net/episodes/2024/ep007/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/built-from-the-ground-up/*"
+    to = "https://www.thebootloader.net/episodes/2024/ep008/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/beautiful-bezier-curves/*"
+    to = "https://www.thebootloader.net/episodes/2024/ep009/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/four-topics-and-an-interview/*"
+    to = "https://www.thebootloader.net/episodes/2024/ep010/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/teardown-2024-with-debra-ansell/*"
+    to = "https://www.thebootloader.net/episodes/2024/ep011/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/from-arcade-to-synth/*"
+    to = "https://www.thebootloader.net/episodes/2024/ep012/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/welcome-liz-clark/*"
+    to = "https://www.thebootloader.net/episodes/2024/ep013/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/welcome-kevin-santo-cappuccio/*"
+    to = "https://www.thebootloader.net/episodes/2024/ep014/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/supercon-2024/*"
+    to = "https://www.thebootloader.net/episodes/2024/ep015/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/sunsets-synths-and-pinball/*"
+    to = "https://www.thebootloader.net/episodes/2025/ep016/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/bamboozled/*"
+    to = "https://www.thebootloader.net/episodes/2025/ep017/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/welcome-brent-rubell/*"
+    to = "https://www.thebootloader.net/episodes/2025/ep018/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/welcome-andy-piper/*"
+    to = "https://www.thebootloader.net/episodes/2025/ep019/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/i-m-afraid-it-s-trmnl/*"
+    to = "https://www.thebootloader.net/episodes/2025/ep020/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/rated-pg-for-language/*"
+    to = "https://www.thebootloader.net/episodes/2025/ep021/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/the-rant-and-the-love-letter/*"
+    to = "https://www.thebootloader.net/episodes/2025/ep022/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/drop-the-beat-with-john-park/*"
+    to = "https://www.thebootloader.net/episodes/2025/ep023/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/circuitpython-day-2025-special-edition/*"
+    to = "https://www.thebootloader.net/episodes/2025/ep024/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/i-feel-the-need-for-speed/*"
+    to = "https://www.thebootloader.net/episodes/2025/ep025/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/super-smooth-with-liz-clark/*"
+    to = "https://www.thebootloader.net/episodes/2025/ep026/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/don-t-call-it-a-comeback/*"
+    to = "https://www.thebootloader.net/episodes/2025/ep027/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/games-without-frontiers/*"
+    to = "https://www.thebootloader.net/episodes/2026/ep028/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/kick-out-the-jams/*"
+    to = "https://www.thebootloader.net/episodes/2026/ep029/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/spin-the-black-circle/*"
+    to = "https://www.thebootloader.net/episodes/2026/ep030/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/help-i-m-alive/*"
+    to = "https://www.thebootloader.net/episodes/2026/ep031/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/wave-of-mutilation/*"
+    to = "https://www.thebootloader.net/episodes/2026/ep032/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/times-like-these/*"
+    to = "https://www.thebootloader.net/episodes/2026/ep033/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/pinball-wizard/*"
+    to = "https://www.thebootloader.net/episodes/2026/ep034/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/thank-you-for-the-music/*"
+    to = "https://www.thebootloader.net/episodes/2026/ep035/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/circuitpython-day-2026/*"
+    to = "https://www.thebootloader.net/episodes/2026/ep036/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/the-spirit-of-radio/*"
+    to = "https://www.thebootloader.net/episodes/2026/ep037/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/saved-by-zero/*"
+    to = "https://www.thebootloader.net/episodes/2026/ep038/"
+    status = 301
+
+# ---- One Castopod slug with an extra suffix, seen in the logs ----
+[[redirects]]
+    from = "/@thebootloader/episodes/pandas-and-breadboards-y5nqd"
+    to = "https://www.thebootloader.net/episodes/2022/ep005/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/pandas-and-breadboards-y5nqd/*"
+    to = "https://www.thebootloader.net/episodes/2022/ep005/"
+    status = 301
+
+# ---- Old Castopod show pages, plus one mistyped episode link ----
+[[redirects]]
+    from = "/@circuitpythonshow"
+    to = "/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/about"
+    to = "/about/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader"
+    to = "https://www.thebootloader.net/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/about"
+    to = "https://www.thebootloader.net/about/"
+    status = 301
+
+[[redirects]]
+    from = "/episodes/season%207/ep062/"
+    to = "/episodes/Season%208/ep062/"
+    status = 301
+
+# ---- OPTIONAL catch-alls, must stay last: any other old Castopod episode URL goes to the home page ----
+[[redirects]]
+    from = "/@circuitpythonshow/episodes/*"
+    to = "/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/episodes/*"
+    to = "https://www.thebootloader.net/"
+    status = 301
