@@ -1121,3 +1121,534 @@
     from = "/@thebootloader/episodes/*"
     to = "https://www.thebootloader.net/"
     status = 301
+
+# ---- Old Castopod audio files -> that episode's page (audio itself now lives on Captivate) ----
+[[redirects]]
+    from = "/audio/@circuitpythonshow/kattni-rembor.mp3"
+    to = "/episodes/Season%201/ep001/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/les-pounder.mp3"
+    to = "/episodes/Season%201/ep002/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/john-gallaugher.mp3"
+    to = "/episodes/Season%201/ep003/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/tod-kurt.mp3"
+    to = "/episodes/Season%201/ep004/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/rose-hooper.mp3"
+    to = "/episodes/Season%201/ep005/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/scott-shawcroft.mp3"
+    to = "/episodes/Season%201/ep006/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/alie-gonzalez.mp3"
+    to = "/episodes/Season%202/ep007/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/melissa-leblanc-williams.mp3"
+    to = "/episodes/Season%202/ep008/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/liz-clark.mp3"
+    to = "/episodes/Season%202/ep009/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/pierre-constantineau.mp3"
+    to = "/episodes/Season%202/ep010/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/anne-barela.mp3"
+    to = "/episodes/Season%202/ep011/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/guy-dupont.mp3"
+    to = "/episodes/Season%202/ep012/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/nicholas-tollervey.mp3"
+    to = "/episodes/Season%202/ep013/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/kevin-matocha.mp3"
+    to = "/episodes/Season%202/ep014/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/joshua-lowe.mp3"
+    to = "/episodes/Season%202/ep015/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/brent-rubell.mp3"
+    to = "/episodes/Season%202/ep016/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/radomir-dopieralski.mp3"
+    to = "/episodes/Season%202/ep017/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/thea-flowers.mp3"
+    to = "/episodes/Season%202/ep018/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/bradan-lane.mp3"
+    to = "/episodes/Season%202/ep019/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/jim-mussared.mp3"
+    to = "/episodes/Season%202/ep020/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/jason-pecor-and-the-trolls.mp3"
+    to = "/episodes/Season%202/ep021/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/joey-castillo.mp3"
+    to = "/episodes/Season%202/ep022/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/mark-komus.mp3"
+    to = "/episodes/Season%202/ep023/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/alec-delaney.mp3"
+    to = "/episodes/Season%202/ep024/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/danny-staple.mp3"
+    to = "/episodes/Season%203/ep025/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/seth-kerr.mp3"
+    to = "/episodes/Season%203/ep026/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/ben-shockley.mp3"
+    to = "/episodes/Season%203/ep027/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/dan-halbert.mp3"
+    to = "/episodes/Season%203/ep028/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/martin-tan.mp3"
+    to = "/episodes/Season%203/ep029/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/erin-st-blaine.mp3"
+    to = "/episodes/Season%203/ep030/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/tod-kurt-part-2.mp3"
+    to = "/episodes/Season%204/ep031/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/max-lupo.mp3"
+    to = "/episodes/Season%204/ep032/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/jan-goolsbey.mp3"
+    to = "/episodes/Season%204/ep033/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/debra-ansell.mp3"
+    to = "/episodes/Season%204/ep034/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/jeff-epler.mp3"
+    to = "/episodes/Season%204/ep035/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/paul-cutler.mp3"
+    to = "/episodes/Season%204/ep036/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/aaron-pendley.mp3"
+    to = "/episodes/Season%205/ep037/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/building-a-weather-system-with-jan-goolsbey.mp3"
+    to = "/episodes/Season%205/ep038/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/designing-a-pcb-with-bradan-lane.mp3"
+    to = "/episodes/Season%205/ep039/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/building-circuitpython-with-dan-halbert.mp3"
+    to = "/episodes/Season%205/ep040/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/writing-a-circuitpython-library-for-the-community-bundle.mp3"
+    to = "/episodes/Season%205/ep041/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/project-collaboration-with-liz-clark-and-noe-ruiz.mp3"
+    to = "/episodes/Season%205/ep042/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/audio-effects-panel-discussion.mp3"
+    to = "/episodes/Season%205/ep043/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/designing-games-for-circuitpython-with-tim-foamyguy-cocks.mp3"
+    to = "/episodes/Season%205/ep044/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/cooper-dalrymple.mp3"
+    to = "/episodes/Season%205/ep045/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/justin-myers.mp3"
+    to = "/episodes/Season%205/ep046/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/john-fletcher.mp3"
+    to = "/episodes/Season%206/ep047/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/noe-ruiz.mp3"
+    to = "/episodes/Season%206/ep048/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/sam-blenny.mp3"
+    to = "/episodes/Season%206/ep049/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/john-romkey.mp3"
+    to = "/episodes/Season%206/ep050/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/river-wang.mp3"
+    to = "/episodes/Season%206/ep051/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/dan-cogliano.mp3"
+    to = "/episodes/Season%206/ep052/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/john-ellis.mp3"
+    to = "/episodes/Season%207/ep053/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/sean-carolan.mp3"
+    to = "/episodes/Season%207/ep054/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/the-open-pressure-sensor-device.mp3"
+    to = "/episodes/Season%207/ep055/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/john-park.mp3"
+    to = "/episodes/Season%207/ep056/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/physical-computing-interactive-art-robotics-tech-for-good.mp3"
+    to = "/episodes/Season%207/ep057/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/developing-for-the-fruit-jam.mp3"
+    to = "/episodes/Season%207/ep058/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/tom-fox.mp3"
+    to = "/episodes/Season%207/ep059/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/michael-t-rex-kadie.mp3"
+    to = "/episodes/Season%207/ep060/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/michael-czeiszperger.mp3"
+    to = "/episodes/Season%208/ep061/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/tod-kurt-part-3.mp3"
+    to = "/episodes/Season%208/ep062/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/scott-shawcroft-part-2.mp3"
+    to = "/episodes/Season%208/ep063/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/circuitpython-day-2026.mp3"
+    to = "/episodes/Season%208/ep064/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/andrew-from-keepeverythingyours-com.mp3"
+    to = "/episodes/Season%208/ep065/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@circuitpythonshow/vicky-twomey-lee.mp3"
+    to = "/episodes/Season%208/ep066/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/rock-stars-are-just-like-us.mp3"
+    to = "https://www.thebootloader.net/episodes/2022/ep001/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/m-is-for-makers-music-and-machine-learning.mp3"
+    to = "https://www.thebootloader.net/episodes/2022/ep002/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/the-middle-is-a-pumpkin.mp3"
+    to = "https://www.thebootloader.net/episodes/2022/ep003/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/what-s-the-matter.mp3"
+    to = "https://www.thebootloader.net/episodes/2022/ep004/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/pandas-and-breadboards.mp3"
+    to = "https://www.thebootloader.net/episodes/2022/ep005/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/supersized-for-supercon.mp3"
+    to = "https://www.thebootloader.net/episodes/2022/ep006/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/the-circuitpython-9-release-show.mp3"
+    to = "https://www.thebootloader.net/episodes/2024/ep007/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/built-from-the-ground-up.mp3"
+    to = "https://www.thebootloader.net/episodes/2024/ep008/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/beautiful-bezier-curves.mp3"
+    to = "https://www.thebootloader.net/episodes/2024/ep009/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/four-topics-and-an-interview.mp3"
+    to = "https://www.thebootloader.net/episodes/2024/ep010/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/teardown-2024-with-debra-ansell.mp3"
+    to = "https://www.thebootloader.net/episodes/2024/ep011/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/from-arcade-to-synth.mp3"
+    to = "https://www.thebootloader.net/episodes/2024/ep012/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/welcome-liz-clark.mp3"
+    to = "https://www.thebootloader.net/episodes/2024/ep013/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/welcome-kevin-santo-cappuccio.mp3"
+    to = "https://www.thebootloader.net/episodes/2024/ep014/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/supercon-2024.mp3"
+    to = "https://www.thebootloader.net/episodes/2024/ep015/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/sunsets-synths-and-pinball.mp3"
+    to = "https://www.thebootloader.net/episodes/2025/ep016/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/bamboozled.mp3"
+    to = "https://www.thebootloader.net/episodes/2025/ep017/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/welcome-brent-rubell.mp3"
+    to = "https://www.thebootloader.net/episodes/2025/ep018/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/welcome-andy-piper.mp3"
+    to = "https://www.thebootloader.net/episodes/2025/ep019/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/i-m-afraid-it-s-trmnl.mp3"
+    to = "https://www.thebootloader.net/episodes/2025/ep020/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/rated-pg-for-language.mp3"
+    to = "https://www.thebootloader.net/episodes/2025/ep021/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/the-rant-and-the-love-letter.mp3"
+    to = "https://www.thebootloader.net/episodes/2025/ep022/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/drop-the-beat-with-john-park.mp3"
+    to = "https://www.thebootloader.net/episodes/2025/ep023/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/circuitpython-day-2025-special-edition.mp3"
+    to = "https://www.thebootloader.net/episodes/2025/ep024/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/i-feel-the-need-for-speed.mp3"
+    to = "https://www.thebootloader.net/episodes/2025/ep025/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/super-smooth-with-liz-clark.mp3"
+    to = "https://www.thebootloader.net/episodes/2025/ep026/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/don-t-call-it-a-comeback.mp3"
+    to = "https://www.thebootloader.net/episodes/2025/ep027/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/games-without-frontiers.mp3"
+    to = "https://www.thebootloader.net/episodes/2026/ep028/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/kick-out-the-jams.mp3"
+    to = "https://www.thebootloader.net/episodes/2026/ep029/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/spin-the-black-circle.mp3"
+    to = "https://www.thebootloader.net/episodes/2026/ep030/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/help-i-m-alive.mp3"
+    to = "https://www.thebootloader.net/episodes/2026/ep031/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/wave-of-mutilation.mp3"
+    to = "https://www.thebootloader.net/episodes/2026/ep032/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/times-like-these.mp3"
+    to = "https://www.thebootloader.net/episodes/2026/ep033/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/pinball-wizard.mp3"
+    to = "https://www.thebootloader.net/episodes/2026/ep034/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/thank-you-for-the-music.mp3"
+    to = "https://www.thebootloader.net/episodes/2026/ep035/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/circuitpython-day-2026.mp3"
+    to = "https://www.thebootloader.net/episodes/2026/ep036/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/the-spirit-of-radio.mp3"
+    to = "https://www.thebootloader.net/episodes/2026/ep037/"
+    status = 301
+
+[[redirects]]
+    from = "/audio/@thebootloader/saved-by-zero.mp3"
+    to = "https://www.thebootloader.net/episodes/2026/ep038/"
+    status = 301
+
+[[redirects]]
+    from = "/@circuitpythonshow/posts/*"
+    to = "/"
+    status = 301
+
+[[redirects]]
+    from = "/@thebootloader/posts/*"
+    to = "https://www.thebootloader.net/"
+    status = 301
